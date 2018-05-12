@@ -1,0 +1,13 @@
+System.Runtime
+Xamarin.Android.Support.Constraint.Layout
+Xamarin.Android.Support.Constraint.Layout.Solver
+Plugin.CurrentActivity
+System.Collections
+System.Threading.Tasks
+Xamarin.Android.Support.Annotations
+Xamarin.Android.Support.Compat
+Xamarin.Android.Support.Core.Utils
+Plugin.Geolocator
+Plugin.Permissions
+Microsoft.WindowsAzure.Storage
+Newtonsoft.Json
